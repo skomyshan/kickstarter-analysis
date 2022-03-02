@@ -1,4 +1,5 @@
 # kickstarter-analysis
+###### An Analysis of Kickstarter Campaigns
 ## Overview of Project
 ###### The Kickstarter Challenge revolved around assisting Louise, an up and coming playwright, who’s fundraising for her play **Fever**. By reconfiguring her data, we were able to get a broad scope of the factors that contribute to the success, failure, or cancellation of a play.
 ### Purpose
